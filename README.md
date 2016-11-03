@@ -1,4 +1,3 @@
 # Hello-World
-First Repository
 
-My name is Seif
+My name is Seif, and this is my first repository on Git. 
